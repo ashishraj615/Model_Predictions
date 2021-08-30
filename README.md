@@ -3,8 +3,8 @@ Illegal mining is a concern worldwide with its wide-ranging effects on the envir
 
 The method employs a deep learning model trained on satellite images of a dataset released by [1] containing surface mines globally. Given an input satellite image, the model is used to predict mine/ non-mine for each pixel. See figure below: 
 
-![Image of Yaktocat](https://ibb.co/bJ8gSbM)
-![Image of Yaktocat](https://ibb.co/bJ8gSbM)
+![Image of Mine using RGB bands](https://github.com/ashishraj615/Model_Predictions/blob/main/RGB_Mine.jpeg)
+![Image of prediction](https://github.com/ashishraj615/Model_Predictions/blob/main/Mine_prediction.jpeg)
 
 
 
